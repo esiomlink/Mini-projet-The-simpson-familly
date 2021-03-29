@@ -1,3 +1,12 @@
+******The simpson project******
+
+This small project is aimed at learning the creat react app.
+I created reactive components and created a small database.
+I display the map with the data.*
+
+Just for fun and to learn...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
